@@ -15,21 +15,6 @@ Welcome to my C++ practice repository! I'm currently pursuing a **Bachelor of Co
 
 ---
 
-## 📘 What You'll Find Here
-
-This repository includes:
-
-| 📂 Folder | 📄 Description |
-|----------|----------------|
-| `Basics/` | Programs covering syntax, variables, loops, conditionals |
-| `Functions/` | Practice with user-defined and built-in functions |
-| `OOP/` | Object-Oriented Programming: classes, objects, inheritance, polymorphism |
-| `DSA/` | Data Structures & Algorithms: arrays, linked lists, stacks, queues, sorting |
-| `Projects/` | Mini-projects like calculator, tic-tac-toe, student database system |
-| `Assignments/` | College assignments and exercises in C++ |
-
----
-
 ## 🛠️ Technologies Used
 
 - **Language:** C++
